@@ -3,11 +3,11 @@ import { addElement } from './functionDOM.js';
 
 /* FUNCTION Defintion */
 export function loadPage(){
-  addElement("content","div",["align-items-center","col-12","container-fluid","d-flex","justify-content-center","p-0","vh-100"],"","","div-Container");
-  addElement("div-Container","div",["flex","justify-content-center","row","text-center","m-0"],"","","section");
-  addElement("section","h1",[],"","Gleis 1 Dürüm","Gleis1");
-  addElement("section","h2",[],"","Your destination for delicous travel food.","tagline");
-  addElement("section","div",["flex","justify-content-center","d-flex","text-center","col-11","col-md-8","col-lg-6"],"width:100%","","tab");
-  addElement("tab","h3",[],"padding:2vw 2vw 0vw 2vw;","Menu","menu");
-  addElement("tab","h3",[],"padding:2vw 2vw 0vw 2vw;","Contact","contact");
+  addElement("content","div",["align-items-center","justify-content-center","container-fluid","vh-100","d-flex","flex-column"],"overflow-y:auto;","",["id"],["container"]);
+  addElement("container","div",["row","text-center"],"","",["id"],["brand"]);
+  addElement("brand","h1",[],"","Gleis 1 Dürüm",["id"],["Gleis1"]);
+  addElement("brand","h2",[],"","Your destination for delicous travel food.",["id"],["tagline"]);
+  addElement("container","div",["text-center","d-flex","justify-content-center"],"","",["id"],["nav"]);
+  addElement("nav","h3",[],"padding:2vh;","Menu",["id"],["menu"]);
+  addElement("nav","h3",[],"padding:2vh;","Contact",["id"],["contact"]);
 };

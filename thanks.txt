@@ -1,0 +1,21 @@
+# Images
+## Zürich HB (zuerichhb.webp)
+Who: Noah Dustin von Weissenfluh
+Link: https://unsplash.com/de/fotos/l9dFlOYr8bk
+
+## Menu
+### Burger (burger.webp)
+Who: Christina Petsos
+Link: https://www.pexels.com/de-de/foto/restaurant-gross-ungesund-fleisch-11568799/
+
+### Dürüm (dueruem.webp)
+Who: Marco Verch
+Link: https://foto.wuestenigel.com/top-view-food-photo-of-person-holding-doner-durum-kebab-roll-with-chicken-meat-fresh-vegetables-and-tzatziki-sauce-with-both-hands/
+
+### Kebab (kebab.webp)
+Who: Marco Verch
+Link: https://foto.wuestenigel.com/doner-kebab-mit-gemischtem-fleisch-frischen-gemuse-tzatziki-feta-kase-und-chili-in-frischem-brot-auf-einem-holzbrett-nahaufnahme/
+
+### Wrap (wrap.webp)
+Who: Max Griss
+Link: https://unsplash.com/de/fotos/Spp1G283dow
