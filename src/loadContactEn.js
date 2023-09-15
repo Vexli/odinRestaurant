@@ -1,5 +1,6 @@
 /* IMPORT */
-import { addElement, addImgBackground } from './functionDOM.js';
+import { addElement } from './functionDOM.js';
+import { mapOSM } from './osmMap.js';
 
 /* FUNCTION Defintion */
 export function loadContactEn(){
@@ -13,5 +14,10 @@ export function loadContactEn(){
 
   /* Menu Section */
   addElement("titel","h2",[],"","Contact",[],[]);
-  addElement("container","div",["d-flex","justify-content-center","flex-wrap"],"","",["id"],["contact-us"]);
+  addElement("container","div",["d-flex","justify-content-center","flex-column","text-center"],"","",["id"],["contact-us"]);
+  addElement("contact-us","div",[],"","",["id"],["map"]);
+  addElement("contact-us","div",[],"","Halle Lowenplatz Bahnhofplatz, 8001 Zürich",[],[]);
+  addElement("contact-us","h4",["p-3"],"","Opening Hours",["id"],["hours"]);
+  addElement("contact-us","p",[],"","Daily 09:00 - 23:00",[],[]);
+  mapOSM("map","50vh","80vw",47.37810,8.5393635,12)
 }
