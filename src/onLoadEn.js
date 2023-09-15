@@ -8,7 +8,7 @@ import {
  } from './functionDOM.js';
 
 /* FUNCTION Defintion */
-export function loadPage(){
+export function loadHomeEn(){
   // Variables General
   const attId = ["id"];
   const clsPad3 = ["p-3"];
