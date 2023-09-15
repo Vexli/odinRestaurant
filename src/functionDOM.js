@@ -1,4 +1,9 @@
 /* FUNCTION Defintion */
+// Test function
+export function check(message){
+  console.log(`${message} step has been completed`)
+}
+
 // Create Element
 export function createElement(parent,type){
   let eleParent = document.getElementById(parent);

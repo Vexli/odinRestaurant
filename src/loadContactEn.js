@@ -20,7 +20,7 @@ export function loadContactEn(){
   // Container
   /// Variables
   const divContainer = createElement("content", "div");
-  const clsContainer = ["container-fluid","vh-100","d-flex","flex-column","align-items-center"];
+  const clsContainer = ["container-fluid","vh-100","d-flex","flex-column","align-items-center","text-center"];
   const cssContainer = "overflow-y:auto;";
   const valContainer = ["container"];
 
