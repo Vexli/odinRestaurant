@@ -1,9 +1,9 @@
 /* IMPORT */
 import { addElement, addImgBackground } from './functionDOM.js';
-import imgBurger from './asset/img/burger.jpg';
-import imgDueruem from './asset/img/dueruem.jpg';
-import imgKebab from './asset/img/kebab.jpg';
-import imgWrap from './asset/img/wrap.jpg';
+import imgBurger from './asset/img/burger.webp';
+import imgDueruem from './asset/img/dueruem.webp';
+import imgKebab from './asset/img/kebab.webp';
+import imgWrap from './asset/img/wrap.webp';
 
 /* FUNCTION Defintion */
 export function loadMenuEn(){
