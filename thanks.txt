@@ -2,20 +2,45 @@
 ## Zürich HB (zuerichhb.webp)
 Who: Noah Dustin von Weissenfluh
 Link: https://unsplash.com/de/fotos/l9dFlOYr8bk
+License: Unsplash (https://unsplash.com/license)
+Changes Made: Converted .jpg to .webp
 
 ## Menu
-### Burger (burger.webp)
+### Burger (burger.jpg)
 Who: Christina Petsos
 Link: https://www.pexels.com/de-de/foto/restaurant-gross-ungesund-fleisch-11568799/
+License: Pexels (https://www.pexels.com/license/)
+Changes Made: None
 
-### Dürüm (dueruem.webp)
+### Dürüm (dueruem.jpg)
 Who: Marco Verch
 Link: https://foto.wuestenigel.com/top-view-food-photo-of-person-holding-doner-durum-kebab-roll-with-chicken-meat-fresh-vegetables-and-tzatziki-sauce-with-both-hands/
+License: Creative Commons 2.0 (https://creativecommons.org/licenses/by/2.0/)
+Title: Top View Food Photo of Person holding Doner Durum Kebab Roll with Chicken Meat, Fresh Vegetables and Tzatziki Sauce with both Hands
+Changes Made: None
 
-### Kebab (kebab.webp)
+### Kebab (kebab.jpg)
 Who: Marco Verch
 Link: https://foto.wuestenigel.com/doner-kebab-mit-gemischtem-fleisch-frischen-gemuse-tzatziki-feta-kase-und-chili-in-frischem-brot-auf-einem-holzbrett-nahaufnahme/
+License: Creative Commons 2.0 (https://creativecommons.org/licenses/by/2.0/)
+Title:  Döner Kebab mit gemischtem Fleisch, frischen Gemüse, Tzatziki, Feta Käse und Chili in frischem Brot auf einem Holzbrett Nahaufnahme
+Changes Made: None
 
-### Wrap (wrap.webp)
+### Wrap (wrap.jpg)
 Who: Max Griss
 Link: https://unsplash.com/de/fotos/Spp1G283dow
+License: Unsplash (https://unsplash.com/license)
+Changes Made: None
+
+# Code
+## Bootstrap
+License: The MIT License (https://github.com/twbs/bootstrap/blob/v4.0.0/LICENSE)
+
+## Leaflet
+License: BSD 2-Clause License (https://github.com/Leaflet/Leaflet/blob/main/LICENSE)
+
+# Other
+## Open Street Maps (OSM)
+Who: OSM Contributors
+License: Open Database License (http://opendatacommons.org/licenses/odbl/1.0/)
+Text: OSM is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
