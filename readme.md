@@ -9,3 +9,5 @@ To create an interactive restaurant website, using primarily javascript.
 ## Licenses / Thanks
 
 Can be found in the thanks.txt file.
+
+## [Check it out](https://vexli.github.io/odinRestaurant/)
